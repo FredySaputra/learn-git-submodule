@@ -8,3 +8,8 @@ function sayOke()
 {
     echo "Oke bro";
 }
+
+function iCan()
+{
+    echo "I can do it";
+}
